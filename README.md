@@ -21,12 +21,11 @@ Here are few of my notable achievements :
 - Runner Up, Primary Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2009)
 
 ### Experience ###
-- System Engineer, Envosat, Royal IT Ltd., Bangladesh. (2018 to Present)
 - Freelance Desktop App Developer. (2017 to Present)
 
 ### Volunteering ###
 - Bug Hunter, Bugzilla. (2017 to Present)
-- Tutorial Contributor, LightOJ. (2021 to Present)
+- Tutorial Moderator, LightOJ. (2021 to Present)
 - Bug Hunter, Manjaro Forum. (2019 to Present)
 - Associate, Free Software Foundaion. (2019 to Present)
 
