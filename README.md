@@ -31,7 +31,7 @@ Here are few of my notable achievements :
 
 ### Technology Stack ###
 - General Purpose / Back End : 
-   Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, C <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" width="15" height="15">, C++ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">, C# <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" width="15" height="15">
+   Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, C <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" width="15" height="15">, C++ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">
 
 - Databases : 
    MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="15" height="15">, MS SQL Server 
