@@ -39,8 +39,6 @@ Here are few of my notable achievements :
 - Front End : 
   HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="15" height="15">, Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" width="15" height="15"> , XAML and XML
 
-- Android : 
-   SDK Built - Java - Android Studio, Flutter <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" width="15" height="15">
   
 - Server : 
    Apache <img src="https://github.com/tomchen/stack-icons/blob/master/logos/apache.svg" width="15" height="15">
@@ -49,7 +47,7 @@ Here are few of my notable achievements :
    Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
   
 - Learning : 
-   CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">, PHP <img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" width="15" height="15">
+   CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">, PHP <img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" width="15" height="15">, SDK Built - Java - Android Studio, Flutter <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" width="15" height="15">
   
 
 ## Contact ##
