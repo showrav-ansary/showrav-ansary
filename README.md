@@ -55,9 +55,12 @@ Profile stats              |  Language Contribution
 ![showrav-ansary :: Profile Stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dark) | ![showrav-ansary :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&langs_count=5&theme=tokyonight&layout=compact&hide=html)
 
 ## Contact ##
-- __Email__ : showrav.ansary.bd@gmail.com </br>
-- <a href="https://www.linkedin.com/in/showrav-ansary/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<p align="center">
+<a href="mailto:showrav.ansary.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-showrav.ansary.bd@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-showrav-ansary%8409-blue?style=flat&logo=discord"></a>
+<a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-showrav_ansary-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
+</p>
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
