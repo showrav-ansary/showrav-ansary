@@ -49,11 +49,11 @@ Here are few of my notable achievements :
 - Learning : 
    CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">, PHP <img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" width="15" height="15">, SDK Built - Java - Android Studio, Flutter <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" width="15" height="15">
   
-
+<!--
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![showrav-ansary :: Profile Stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dark) | ![showrav-ansary :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&langs_count=5&theme=tokyonight&layout=compact&hide=html)
-
+-->
 ## Contact ##
 <p align="center">
 <a href="mailto:showrav.ansary.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-showrav.ansary.bd@gmail.com-red?style=flat&logo=gmail"></a>
