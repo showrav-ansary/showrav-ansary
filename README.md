@@ -57,7 +57,6 @@ Profile stats              |  Language Contribution
 ## Contact ##
 <p align="center">
 <a href="mailto:showrav.ansary.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-showrav.ansary.bd@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-showrav-ansary%8409-blue?style=flat&logo=discord"></a>
 <a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-showrav_ansary-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
 </p>
