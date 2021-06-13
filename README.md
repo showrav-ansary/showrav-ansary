@@ -22,11 +22,12 @@ Here are few of my notable achievements :
 
 ### Experience ###
 - Freelance Desktop App Developer. (2017 to Present)
+- Systems Engineer, EnvoSat, Royal IT ltd. (2018 to 2019)
+- CTO and Co-Founder, GuluMulu. (2020 - 2021)
 
 ### Volunteering ###
 - Bug Hunter, Bugzilla. (2017 to Present)
 - Tutorial Moderator, LightOJ. (2021 to Present)
-- Bug Hunter, Manjaro Forum. (2019 to Present)
 - Associate, Free Software Foundation. (2019 to Present)
 
 ### Technology Stack ###
