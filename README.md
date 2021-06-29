@@ -28,7 +28,6 @@ Here are few of my notable achievements :
 ### Volunteering ###
 - Bug Hunter, Bugzilla. (2017 to Present)
 - Tutorial Moderator, LightOJ. (2021 to Present)
-- Associate, Free Software Foundation. (2019 to Present)
 
 ### Technology Stack ###
 - General Purpose / Back End : 
