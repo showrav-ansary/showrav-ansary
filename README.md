@@ -61,7 +61,7 @@ Profile stats              |  Language Contribution
 </p>
 
 ## Try Some Songs While Coding? ##
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/3NNB9lUfO1ULttAKkAaSbQ)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3NNB9lUfO1ULttAKkAaSbQ?si=3b881492f0b044a3)
 
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
