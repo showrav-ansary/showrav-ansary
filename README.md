@@ -59,6 +59,9 @@ Profile stats              |  Language Contribution
 <a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-A._A._Noman_Ansary-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
+
+## Try Some Songs While Coding? ##
+<iframe src="https://open.spotify.com/embed/playlist/3NNB9lUfO1ULttAKkAaSbQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
