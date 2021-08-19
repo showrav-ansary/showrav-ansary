@@ -48,8 +48,10 @@ Here are few of my notable achievements :
    Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
   
 - Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">, Flutter <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" width="15" height="15">
+
+### Statistics
   
-<img src ="https://gpvc.arturio.dev/showrav-ansary">
+<p align="center"><img src ="https://gpvc.arturio.dev/showrav-ansary"></p>
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
