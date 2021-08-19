@@ -64,9 +64,6 @@ Profile stats              |  Language Contribution
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
 
-## Try Some Songs While Coding? ##
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3NNB9lUfO1ULttAKkAaSbQ?si=3b881492f0b044a3)
-
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
