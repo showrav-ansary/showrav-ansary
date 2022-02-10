@@ -5,7 +5,6 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 ### Currently Engaged In ### 
 - Contributing Tutorials to [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
 - Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
-- Creating [SongketLipi](https://github.com/SongketLipi "SongketLipi"), a non-profit organization to teach algorithms and `pure functional programming`.
 
 ### Hobbies ###
 - Drawing : Human Figures. Abstract. 
@@ -21,10 +20,6 @@ Here are few of my notable achievements :
 - Second Runner Up, Junior Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2010)
 - Runner Up, Primary Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2009)
 
-### Experience ###
-- Freelance Desktop App Developer. (2017 to Present)
-- Systems Engineer, EnvoSat, Royal IT ltd. (2018 to 2019)
-- CTO and Co-Founder, GuluMulu. (2020 - 2021)
 
 ### Volunteering ###
 - Bug Hunter, Bugzilla. (2017 to Present)
@@ -47,9 +42,7 @@ Here are few of my notable achievements :
 - Operating System : 
    Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
   
-- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">, Flutter <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" width="15" height="15">
-
-### Statistics
+- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">, 
   
 <p align="center"><img src ="https://gpvc.arturio.dev/showrav-ansary"></p>
 
