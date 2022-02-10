@@ -42,7 +42,7 @@ Here are few of my notable achievements :
 - Operating System : 
    Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
   
-- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">, 
+- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">
   
 <p align="center"><img src ="https://gpvc.arturio.dev/showrav-ansary"></p>
 
