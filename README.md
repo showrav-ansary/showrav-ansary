@@ -59,7 +59,7 @@ Profile stats              |  Language Contribution
 </p>
 <p align="center">
    
-[![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary)](https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onedark)
 
 </p>
 
