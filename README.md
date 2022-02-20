@@ -10,7 +10,7 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 - Drawing : Human Figures. Abstract. 
 - Listening to Music : Jazz. Blues.
 - Journaling : Personal Stuffs.
-- Problem Solving : LightOJ. CodeForces. Timus. UVa.
+- Problem Solving : Books.
 
 ### Achievements ###
 Here are few of my notable achievements :
@@ -24,17 +24,17 @@ Here are few of my notable achievements :
 ### Volunteering ###
 - Bug Hunter, Bugzilla. (2017 to Present)
 - Tutorial Moderator, LightOJ. (2021 to Present)
+- Research Assistant, Bengali.ai. (2021 to Present)
 
 ### Technology Stack ###
 - General Purpose / Back End : 
-   Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, C++ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">
+   Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">
 
 - Databases : 
-   MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="15" height="15">, MS SQL Server 
+   MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="15" height="15">
   
 - Front End : 
-  HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="15" height="15">, Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" width="15" height="15">, CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">, XAML and XML
-
+  HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="15" height="15">, Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" width="15" height="15">, CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">
   
 - Server : 
    Apache <img src="https://github.com/tomchen/stack-icons/blob/master/logos/apache.svg" width="15" height="15">
