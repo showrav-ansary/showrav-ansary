@@ -50,9 +50,11 @@ Here are few of my notable achievements :
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![showrav-ansary :: Profile Stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dark) | ![showrav-ansary :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&langs_count=5&theme=tokyonight&layout=compact&hide=html)
+<p align="center">
 
-   
-![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary&theme=onestar)
+![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary&theme=onestar&row=1)
+
+</p>
 
 
 ## Contact ##
