@@ -57,8 +57,9 @@ Profile stats              |  Language Contribution
 <a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-A._A._Noman_Ansary-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
