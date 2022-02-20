@@ -58,7 +58,9 @@ Profile stats              |  Language Contribution
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
 <p align="center">
+   
 [![trophy](https://github-profile-trophy.vercel.app/?username=showrav-ansary)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 <!--
