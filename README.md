@@ -5,6 +5,7 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 ### Currently Engaged In ### 
 - Contributing Tutorials to [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
 - Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
+- Researching as a Research Assistant in [Bengali.ai](https://bengali.ai/ "Bengali.ai").
 
 ### Hobbies ###
 - Drawing : Human Figures. Abstract. 
