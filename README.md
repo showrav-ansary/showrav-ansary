@@ -3,7 +3,7 @@
 Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showrav`, my nick name. I am currently pursuing a BSc in CSE at BRAC University, Bangladesh. I am an open source enthusiast, especially about Linux kernel based OSs. However I consider myself a more of a painter than a coder, well, self proclaimed! I like to introduce myself as a bunny lover. In fact, I have a huge plan in my mind to create a bunny farm here in Bangladesh. The plan itself is secret, the implementation that is. Trust me, it is as complex like as simple as it sounds to be! I hope soon to be able to execute it soon in near future! I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. I don't think an intro like this okay to fully say who am I in real. I have some development experience. I wish to learn more and become as skillful as possible within my limits. Happy coding! 
 
 ### Currently Engaged In ### 
-- Contributing Tutorials to [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
+- Contributing and Moderating Tutorials in [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
 - Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
 - Researching as a Research Assistant in [Bengali.ai](https://bengali.ai/ "Bengali.ai").
 - Creating a general purpose Haskell-stack based BlockChain/LedgerBook called `SnowBlock`. 
