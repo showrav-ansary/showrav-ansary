@@ -6,6 +6,7 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 - Contributing Tutorials to [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
 - Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
 - Researching as a Research Assistant in [Bengali.ai](https://bengali.ai/ "Bengali.ai").
+- Creating a general purpose Haskell-stack based BlockChain/LedgerBook called `SnowBlock`. 
 
 ### Hobbies ###
 - Drawing : Human Figures. Abstract. 
@@ -26,6 +27,7 @@ Here are few of my notable achievements :
 - Bug Hunter, Bugzilla. (2017 to Present)
 - Tutorial Moderator, LightOJ. (2021 to Present)
 - Research Assistant, Bengali.ai. (2021 to Present)
+- Contributor, DataHaskell. (2021 to Present)
 
 ### Technology Stack ###
 - General Purpose / Back End : 
