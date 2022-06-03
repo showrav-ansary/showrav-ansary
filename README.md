@@ -6,7 +6,7 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 - Contributing and Moderating Tutorials in [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
 - Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
 - Researching as a Research Assistant in [Bengali.ai](https://bengali.ai/ "Bengali.ai").
-- Writing a Bengali book on [`Haskell` programming with theories](https://github.com/showrav-ansary/Haskell-Programming-in-Bengali).
+- Writing a Bengali book on [`Haskell` Programming](https://github.com/showrav-ansary/Haskell-Programming-in-Bengali) including theories.
 
 
 ### Hobbies ###
