@@ -61,6 +61,10 @@ Profile stats              |  Language Contribution
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
 
+Here, have a song for your aching heart :
+<p align="center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2vzWylXWogTG11HR0frews?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</P>
 
 <!--
 **showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
