@@ -35,18 +35,28 @@ Here are few of my notable achievements :
    Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">
 
 - Databases : 
-   MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="15" height="15">
+   MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" height="15">,
+   MongoDB <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" height="15">
   
 - Front End : 
-  HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="15" height="15">, Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" width="15" height="15">, CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">, JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="15" height="15">
+  HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" height="15">, 
+  Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" height="15">, 
+  CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" height="15">, 
+  JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" height="15">
   
 - Server : 
-   Apache <img src="https://github.com/tomchen/stack-icons/blob/master/logos/apache.svg" width="15" height="15">
-
+   Apache Tomcat <img src="https://github.com/get-icon/geticon/blob/master/icons/tomcat.svg" height="15">
+ 
 - Operating System : 
-   Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
+   Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" height="15">,
+   Ubuntu <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" height="15">,
+- Frameworks :
+   SpringBoot <img src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" height="15">
+
+- Version Control Systems:
+   Git <img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" height="15">,
   
-- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">
+- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" height="15">
   
 <p align="center"><img src ="https://gpvc.arturio.dev/showrav-ansary"></p>
 
