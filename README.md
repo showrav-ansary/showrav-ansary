@@ -56,7 +56,8 @@ Here are few of my notable achievements :
 
 - Operating System :
    Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" height="15">,
-   Ubuntu <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" height="15">,
+   Ubuntu <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" height="15">
+
 - Frameworks :
    SpringBoot <img src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" height="15">
 
