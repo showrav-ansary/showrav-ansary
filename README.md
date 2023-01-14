@@ -71,13 +71,13 @@ Here are few of my notable achievements :
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-[![Showrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)| [![Showrav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&layout=compact&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)
+[![Showrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)| [![Showrav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)
 
 ## Contact ##
 
 <p align="center">
 <a href="mailto:showrav.ansary.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-showrav.ansary.bd@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-A._A._Noman_Ansary-blue?style=flat&logo=twitter"></a>
+<a href="https://twitter.com/AnsaryShowrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-A._A._Noman_Ansary-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
 </p>
 
