@@ -71,7 +71,7 @@ Here are few of my notable achievements :
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-[![Showrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)| ![showrav-ansary :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&langs_count=5&theme=tokyonight&layout=compact&hide=html)
+[![Showrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)| [![Showrav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&layout=compact&theme=dracula)](https://github.com/showrav-ansary/github-readme-stats)
 
 ## Contact ##
 
