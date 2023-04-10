@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/56db8e5fcf80a1b2c9a51c8d/1506543949264-BJHGEVOIH7OH38ZMVO78/Electric-Lit-GIF-Alix-Farren.gif?format=1000w)](https://showrav-ansary.github.io)
 ### About Me ###
 
-Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showrav`, my nick name. I am currently pursuing a BSc in CSE at BRAC University, Bangladesh. I am an open source enthusiast, especially about Linux kernel based OSs. However I consider myself a more of a painter than a coder, well, self proclaimed! I like to introduce myself as a bunny lover. In fact, I have a huge plan in my mind to create a bunny farm here in Bangladesh. The plan itself is secret, the implementation that is. Trust me, it is as complex like as simple as it sounds to be! I hope soon to be able to execute it soon in near future! I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. I don't think an intro like this okay to fully say who am I in real. I have some development experience. I wish to learn more and become as skillful as possible within my limits. Happy coding!
+Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showrav`, my nick name. I am just a generic CS major who wants to pursue fine arts in the long run.
 
 ### Currently Engaged In ###
 
