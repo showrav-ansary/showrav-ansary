@@ -10,13 +10,6 @@ Hi there! My name is __A. A. Noman Ansary__. But I prefer to be called as `Showr
 - Researching Computer Graphics.
 - Writing a Bengali book on [`Haskell` Programming](https://github.com/showrav-ansary/Haskell-Programming-in-Bengali) including theories.
 
-### Hobbies ###
-
-- Drawing : Human Figures. Abstract.
-- Listening to Music : Jazz. Blues.
-- Journaling : Personal Stuffs.
-- Problem Solving : Books.
-
 ### Achievements ###
 
 Here are few of my notable achievements :
@@ -33,6 +26,14 @@ Here are few of my notable achievements :
 - Tutorial Moderator, LightOJ. (2021 to Present)
 - Research Assistant, Bengali.ai. (2021 to Present)
 - Contributor, DataHaskell. (2021 to Present)
+
+### Hobbies ###
+
+- Drawing : Human Figures. Abstract.
+- Listening to Music : Jazz. Blues.
+- Journaling : Personal Stuffs.
+- Problem Solving : Books.
+
 
 ### Technology Stack ###
 
